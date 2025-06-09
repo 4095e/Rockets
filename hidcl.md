@@ -1,6 +1,6 @@
 # HIDCL Options Pricing System
 ## Comprehensive UML Architecture Documentation
-
+### Add EXCEPTION HANDLING
 ---
 
 **Document Information**
